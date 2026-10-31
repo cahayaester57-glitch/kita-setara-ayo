@@ -1,0 +1,1 @@
+import { Solutions } from '@/components/Pages'; import PublishedContent from '@/components/PublishedContent'; export const dynamic='force-dynamic'; export default function Page(){return <PublishedContent slug="/solusi"><Solutions/></PublishedContent>}
